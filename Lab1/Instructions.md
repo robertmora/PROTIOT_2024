@@ -28,7 +28,7 @@ After completing the "Hello, World!" simulation:
 
 ## Deliverables
 
-Your assignment is to compile a report that encompasses your findings and experiences from the lab activity, with a focus on analytical observations and reflections, gearing up for more comprehensive tasks next week.
+Your assignment is to compile a report that encompasses your findings and experiences from the lab activity, with a focus on analytical observations and reflections, gearing up for more comprehensive tasks next week. The report should be a maximum of 2 pages, excluding an appendix if needed for larger screenshots or additional materials.
 
 ### Report Structure
 
