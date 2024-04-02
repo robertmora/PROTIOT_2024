@@ -38,7 +38,7 @@ Building upon our initial session, Lab 2 delves deeper into the Contiki-NG Cooja
 
 Remember, the success of these steps depends on the simulation running in Cooja. Pay close attention to any errors or unusual behavior, as these can provide valuable insights into the network's operation and the border router's role within it.
 
-Additional information about this process can be found [here](https://docs.contiki-ng.org/en/develop/doc/tutorials/Cooja-simulating-a-border-router.html)
+Additional information about this process can be found [here](https://docs.contiki-ng.org/en/develop/doc/tutorials/Cooja-simulating-a-border-router.html).
 
 ##### Recording Simulation Output for Wireshark Analysis
 
