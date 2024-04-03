@@ -20,9 +20,11 @@ Building upon our initial session, Lab 2 delves deeper into the Contiki-NG Cooja
 - **Task:** Create a complex network with 5 nodes and 1 border router to explore characteristics of 802.15.4, 6LoWPAN, and optionally RPL.
 - **Objective:** Use Wireshark and Cooja to analyze the network's behavior and how it enables communication between simulated nodes and the external world. Also, in this tutorial while you will learn how to simulate a Routing Protocol for Low-Power and Lossy Networks (RPL) border router in Cooja, you will learn to use it to allow communications between emulated nodes inside Cooja and processes running in the “outside world”.
     1. Set up a new simulation with a `border-router.c` from `/home/networkedss/Desktop/contiki-ng/examples/rpl-border-router/` and five `udp-client.c` motes.
-    2. Arrange the nodes so that 1, 2, 3 are in the same communication coverage, 3, 5, 6 are in the same communication coverage, and 2, 4, 5 are in the same communication range.
+    2. Arrange the nodes so that 1, 2, 3 are in the same communication coverage, 3, 5, 6 are in the same communication coverage, and 2, 4, 5 are in the same communication range (please have a look at the picture below for your reference).
     3. Run the simulation with the support of the key Cooja tools analyzed earlier and observe the patterns of communication. Document your remarks in your report.
-    
+
+    ![image](https://github.com/robertmora/PROTIOT_2024/assets/8244995/218fef50-b222-4258-bf66-bad97a8ef712)
+
 ##### Connect the Border Router to the Outside World
 
 - **Open the Serial Socket:** In Cooja, right-click on the RPL border router node (Node 1). Navigate to `Mote tools for Contiki 1` and select `Serial Socket (SERVER)`, then click `Start` to open the serial socket server.
