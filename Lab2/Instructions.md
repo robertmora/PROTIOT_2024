@@ -4,6 +4,8 @@
 ## Introduction
 Building upon our initial session, Lab 2 delves deeper into the Contiki-NG Cooja network simulator's capabilities, analyzing more complex scenarios. This lab introduces Wireshark as an additional investigative tool, enhancing our exploration of IoT network protocols such as IEEE 802.15.4, 6LowPAN, and optionally, RPL.
 
+Please note that this activity can be completed individually or in pairs.
+
 ## Lab Activities
 
 ### Activity 1: Simple Client-Server Network
