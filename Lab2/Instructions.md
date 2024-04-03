@@ -23,7 +23,7 @@ Building upon our initial session, Lab 2 delves deeper into the Contiki-NG Cooja
     2. Arrange the nodes so that 1, 2, 3 are in the same communication coverage, 3, 5, 6 are in the same communication coverage, and 2, 4, 5 are in the same communication range (please have a look at the picture below for your reference).
     3. Run the simulation with the support of the key Cooja tools analyzed earlier and observe the patterns of communication. Document your remarks in your report.
 
-                    ![image](https://github.com/robertmora/PROTIOT_2024/assets/8244995/218fef50-b222-4258-bf66-bad97a8ef712)
+![image](https://github.com/robertmora/PROTIOT_2024/assets/8244995/218fef50-b222-4258-bf66-bad97a8ef712)
 
 ##### Connect the Border Router to the Outside World
 
