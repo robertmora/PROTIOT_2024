@@ -117,7 +117,7 @@ This preliminary setup is just the beginning. Further instructions will guide yo
 
 ### Re-Starting the Simulation and Analysis
 
-- With the setup complete, start the simulation again from the LWN Simulator interface, and closely observe the interactions and data exchange patterns respect to the previous case.
+- With the setup complete, start the simulation again from the LWN Simulator interface, and closely observe the interactions and data exchange patterns respect to the previous case. Comment about this in your report.
 - Transition to the ChirpStack suite's dashboard to view active devices and gateways, including real-time data on network activity and device connectivity.
 - Explore the "Gateways" and "Applications" sections for detailed insights into LoRaWAN frames and event logs, offering a comprehensive view of the network's operational dynamics.
 	- In particular, within the "Applications" section, click on the name of the device you created, then on the DevEUI. On the Dashboard tab, you'll be able to see many Key Performance Indicators (KPIs) concerning the network created, providing valuable metrics on the performance and health of your network.
