@@ -1,5 +1,7 @@
 # PROTIOT Course Lab 3: LoRa and LoRaWAN
 
+**Note:** While the instructions are designed with the virtual machine used in previous lab exercises in mind, students have the option to install the tools on their own machines. This can be done through the repositories of the tools used: ChirpStack (https://github.com/chirpstack/chirpstack) and LWN Simulator (https://github.com/UniCT-ARSLab/LWN-Simulator/). For students who have Docker installed, leveraging docker-compose makes running these tools straightforward. For detailed instructions on how to install and run the tools, please refer to the respective tool repositories. This approach might offer more flexibility and ease of use for those familiar with Docker environments.
+
 ## Introduction
 
 In this lab, you will learn about LoRa and LoRaWAN, focusing on the deployment of a complete platform, including Gateways and a network server. We will utilize the ChirpStack suite (https://www.chirpstack.io/) for LoRa and LoRaWAN, alongside the LWN Simulator for Gateways and LoRa devices (https://github.com/UniCT-ARSLab/LWN-Simulator).
