@@ -1,4 +1,3 @@
-
 # PROTIOT Course Lab 3: LoRa and LoRaWAN
 
 ## Introduction
