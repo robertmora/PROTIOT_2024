@@ -136,13 +136,13 @@ This preliminary setup is just the beginning. Further instructions will guide yo
 2. **Instructions:** Add a new device to the simulator using ABP activation and create the necessary device profile and device on the server side. Ensure this ABP device is the only active device before starting the simulation. Observe the differences in configuration for OTAA and ABP in both the simulator and the ChirpStack web interface. Additionally, explore the gateway's live LoRaWAN frames to identify differences between ABP and OTAA activations.
 3. **Goal:** To recognize and understand the practical and operational differences between OTAA and ABP activation methods in LoRaWAN networks, highlighting the implications of each activation method on network behavior and security.
 
-### Activity 3: Use Case Research for Device Configuration (BONUS, +4 points)
+### Activity 3: Use Case Research for Device Configuration (BONUS, +3 points)
 
 1. **Task:** Research specific use cases of LoRaWAN in various sectors (e.g., smart cities, agriculture) to determine optimal device configurations.
 2. **Instructions:** Conduct a survey of web resources and academic literature to find a use case in a sector of interest (e.g., smart cities, agriculture, etc.). Analyze the recommendations for device settings, including which class of devices (A, B, C) to use, and how to configure device parameters for optimal performance. Then, compare these recommendations with the configuration options available in the simulator. It's important to note that not every setting or parameter you research will be directly applicable or available in the simulator. Identify which settings can be matched and note any limitations or discrepancies between the theoretical configurations and what the simulator allows you to configure.
 3. **Goal:** To apply theoretical knowledge in practical scenarios, making informed decisions about device configuration and class selection based on specific use case requirements and constraints.
 
-### Activity 4: Critical Discussion on Limitations (BONUS, +2 points)
+### Activity 4: Critical Discussion on Limitations
 
 1. **Task:** Identify and briefly discuss potential limitations of the simulator based on the analyses conducted.
 2. **Instructions:** Reflect on your experiences using the simulator and analyzing LoRaWAN network operations through the simulator. Identify any limitations or challenges you encountered, drawing on both the theoretical concepts covered in lectures and your personal observations or feelings about the simulator’s functionality and realism. Consider how these limitations might impact the applicability of your findings to real-world scenarios.
